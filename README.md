@@ -8,7 +8,7 @@ I developed a model based on that proposed by Gao et al. in "Woven Fabric Defect
 This multi-layer convolution neural network is implemented to extract the most discriminating features and identify defective tissue images.
 
 ### Dataset
-The dataset consisted of 6000 images divided in 2000 Good, 2000 Needle defect and 2000 Lycra defect.
+The dataset consisted of 6000 images divided in 2000 Good, 2000 Needle defect and 2000 Lycra defect. Unfortunatley, the size of data is too big to be upload.
 
 To avoid overfitting and better model generalization, data augmentation was made to increase the number of samples. The transformations were: image normalization, rotation below 15º, horizontal and vertical.
 
